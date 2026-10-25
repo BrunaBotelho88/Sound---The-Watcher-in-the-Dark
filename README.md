@@ -1,7 +1,7 @@
-# Trilha Sonora de Terror Psicológico
+# Trilha Sonora de Terror 
 
 ## 📒 Descrição
-Composição de uma trilha sonora instrumental e imersiva com foco em Suspense e Terror Psicológico, criada para ambientar cenários misteriosos e tensos de um jogo de sobrevivência/horror.
+Composição de uma trilha sonora instrumental e imersiva com foco em Suspense e Terror, criada para ambientar cenários misteriosos e tensos de um jogo de sobrevivência/horror.
 
 ## 🤖 Tecnologias Utilizadas
 - **Suno AI**: Plataforma de IA generativa usada para criar a atmosfera sonora, efeitos ambientes e harmonia dissonante em modo instrumental.
