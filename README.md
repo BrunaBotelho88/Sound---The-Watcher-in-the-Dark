@@ -1,4 +1,4 @@
-# Echoes of the Void: Trilha Sonora de Terror Psicológico ;)
+# Trilha Sonora de Terror Psicológico
 
 ## 📒 Descrição
 Composição de uma trilha sonora instrumental e imersiva com foco em Suspense e Terror Psicológico, criada para ambientar cenários misteriosos e tensos de um jogo de sobrevivência/horror.
